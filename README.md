@@ -48,7 +48,7 @@ Environment	VS Code, Jupyter Notebook
 Version Control	Git + GitHub
 🚀 How to Run
 🧩 1. Clone this repository
-git clone https://github.com/SHOBIKA SRI S/Week-1.git
+git clone https:https://github.com/shobikasrisece2023-boop/SHOBIKASRIS.git/Week-1.git
 cd Week-1
 
 ⚙️ 2. Install required dependencies
@@ -97,7 +97,7 @@ B.Tech Student | AI & Data Analyst Enthusiast
 
 📧 Contact: Shobikasris15@gmail.com
 
-💼 GitHub: github.com/SHOBIKA SRI
+💼 GitHub: https://github.com/shobikasrisece2023-boop/SHOBIKASRIS.git
 
 📜 License
 <img width="910" height="708" alt="Screenshot 2025-10-28 173916" src="https://github.com/user-attachments/assets/58ecad50-1c37-40cd-aeef-f1baf580b4b9" />
