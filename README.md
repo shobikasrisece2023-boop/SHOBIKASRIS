@@ -1,6 +1,6 @@
 Problem statement:
 With the rapid growth of the electric vehicle (EV) industry, analyzing and forecasting car performance, specifications, and market trends has become crucial for manufacturers, analysts, and consumers. However, raw datasets like cars_data_RAW.csv often contain inconsistent, unstructured, or incomplete information, making it difficult to extract insights or predict future patterns effectively.
-🧠 Week-1: Chatbot Creation & EV Vehicle Data Analysis
+🧠 Week-1 and 2:Chatbot Creation & EV Vehicle Data Analysis
 📋 Project Overview
 
 This repository contains two main parts:
@@ -48,8 +48,8 @@ Environment	VS Code, Jupyter Notebook
 Version Control	Git + GitHub
 🚀 How to Run
 🧩 1. Clone this repository
-git clone https:https://github.com/shobikasrisece2023-boop/SHOBIKASRIS.git/Week-1.git
-cd Week-1
+git clone https:https://github.com/shobikasrisece2023-boop/SHOBIKASRIS.git/Week2 git
+cd Week-1 2
 
 ⚙️ 2. Install required dependencies
 pip install -r requirements.txt
@@ -91,8 +91,7 @@ Deploy chatbot dashboard using Streamlit Cloud or Hugging Face Spaces.
 Add REST API for data access.
 
 🧑‍💻 Author
-
-JANGAM BALACHANDRA MOHAN REDDY
+SHOBIKA SRI S 
 B.Tech Student | AI & Data Analyst Enthusiast
 
 📧 Contact: Shobikasris15@gmail.com
